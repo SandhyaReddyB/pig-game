@@ -9,3 +9,4 @@ Game Rules
 - The player can also choose to Hold, which means his Round Score gets added to his Global Score. And turn goes to the next player
 - The first player to reach Winning score on Global Score Wins the game.
 
+Want to play the game? Here is the URL, https://sandhyareddyb.github.io/pig-game/
